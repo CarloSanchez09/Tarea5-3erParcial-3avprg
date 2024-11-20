@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Tinaco de 500L",
+      "description": "Tinaco de 500 litros, ideal para hogares pequeños.",
+      "image": "assets/Tinaco1.png",
+      "cost": 2200
+    },
+    {
+      "title": "Tinaco de 1000L",
+      "description": "Tinaco de 1000 litros, ideal para hogares grandes. Resistente y duradero.",
+      "image": "assets/imagen2.jpg",
+      "cost": 3500
+    },
+    {
+      "title": "Tinaco de 1500L",
+      "description": "Tinaco de 1500 litros, adecuado para viviendas de tamaño medio.",
+      "image": "assets/imagen3.png",
+      "cost": 4000
+    },
+    {
+      "title": "Tinaco de 2000L",
+      "description": "Tinaco de 2000 litros, perfecto para comunidades o negocios pequeños.",
+      "image": "assets/imagen4.jpg",
+      "cost": 4500
+    },
+    {
+      "title": "Tinaco de 2500L",
+      "description": "Tinaco de 2500 litros ideal para riego agrícola o almacenamiento grande.",
+      "image": "assets/imagen5.png",
+      "cost": 5200
+    },
+    {
+      "title": "Tinaco de 3000L",
+      "description": "Tinaco de 3000 litros, resistente para industrias o grandes construcciones.",
+      "image": "assets/imagen6.png",
+      "cost": 6000
+    },
+    {
+      "title": "Tinaco de 3500L",
+      "description": "Tinaco de 3500 litros, ideal para grandes fincas y almacenes.",
+      "image": "assets/imagen7.jpg",
+      "cost": 6500
+    },
+    {
+      "title": "Tinaco de 4000L",
+      "description": "Tinaco de 4000 litros, adecuado para comunidades grandes.",
+      "image": "assets/imagen8.jpg",
+      "cost": 7000
+    },
+    {
+      "title": "Tinaco de 5000L",
+      "description": "Tinaco de 5000 litros, ideal para grandes instalaciones comerciales.",
+      "image": "assets/imagen9.jpg",
+      "cost": 8000
+    },
+    {
+      "title": "Tinaco de 6000L",
+      "description": "Tinaco de 6000 litros, excelente para grandes proyectos industriales.",
+      "image": "assets/imagen10.jpg",
+      "cost": 9000
+    }
+]
